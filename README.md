@@ -65,16 +65,16 @@ npm run lint
 #### 1. 使用 CLI 工具创建项目
 ```bash
 # 使用 npm create
-npm create suxiaoxiang-react my-app
+npm create react-su
 
 # 使用 npx
-npx create-suxiaoxiang-react my-app
+npx create-react-su
 
 # 使用 yarn create
-yarn create suxiaoxiang-react my-app
+yarn create react-su
 
 # 使用 pnpm create
-pnpm create suxiaoxiang-react my-app
+pnpm create react-su
 ```
 
 #### 2. 交互式配置
@@ -153,10 +153,10 @@ npm run dev
 ```typescript
 // 路由配置，参数填路由路径和组件
 const routes = [
-  {
-    path: '/',
-    element: <HomePage />
-  }
+    {
+        path: '/',
+        element: <HomePage />
+    }
 ];
 ```
 
