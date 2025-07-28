@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 	<a href="https://github.com/Su-xiaoxiang/Suxiaoxiang-react" target="_blank">GitHub 仓库</a> | 
-	<a href="https://www.npmjs.com/package/create-suxiaoxiang-react" target="_blank">npm 包</a> | 
+	<a href="https://www.npmjs.com/package/create-react-su" target="_blank">npm 包</a> | 
 	<a href="#" target="_blank">在线文档</a>
 </p>
 
