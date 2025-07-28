@@ -9,9 +9,103 @@
 	<a href="#"><img src="https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=flat-square&logo=tailwind-css"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Node.js-22.0-green?style=flat-square&logo=node.js"></a>
 </p>
-<p align="center"><a href="#" target="_blank">在线文档：https://your-docs-url.com</a></p>
+<p align="center">
+	<a href="https://github.com/Su-xiaoxiang/Suxiaoxiang-react" target="_blank">GitHub 仓库</a> | 
+	<a href="https://www.npmjs.com/package/create-suxiaoxiang-react" target="_blank">npm 包</a> | 
+	<a href="#" target="_blank">在线文档</a>
+</p>
 
 ---
+
+## 📦 下载方式
+
+### 方式一：通过 GitHub 下载
+
+#### 1. 克隆仓库
+```bash
+# 克隆主仓库
+git clone https://github.com/Su-xiaoxiang/Suxiaoxiang-react.git
+
+# 进入项目目录
+cd Suxiaoxiang-react
+```
+
+#### 2. 安装依赖
+```bash
+# 使用 npm
+npm install
+
+# 使用 yarn
+yarn install
+
+# 使用 pnpm
+pnpm install
+```
+
+#### 3. 启动开发服务器
+```bash
+# 开发环境
+npm run dev
+
+# 生产构建
+npm run build
+
+# 预览生产构建
+npm run preview
+
+# 代码检查
+npm run lint
+```
+
+#### 4. 访问应用
+开发服务器启动后，在浏览器中访问：`http://localhost:5173`
+
+### 方式二：通过 npm 下载
+
+#### 1. 使用 CLI 工具创建项目
+```bash
+# 使用 npm create
+npm create suxiaoxiang-react my-app
+
+# 使用 npx
+npx create-suxiaoxiang-react my-app
+
+# 使用 yarn create
+yarn create suxiaoxiang-react my-app
+
+# 使用 pnpm create
+pnpm create suxiaoxiang-react my-app
+```
+
+#### 2. 交互式配置
+CLI 工具会引导您完成以下配置：
+- 项目名称（如果未在命令行指定）
+- 是否覆盖已存在的目录
+
+#### 3. 自动完成项目创建
+CLI 工具会自动：
+- 创建项目目录结构
+- 复制所有模板文件
+- 更新 package.json 中的项目名称
+
+#### 4. 开始开发
+```bash
+# 进入项目目录
+cd my-app
+
+# 启动开发服务器
+npm run dev
+```
+
+### 两种方式的对比
+
+| 特性 | GitHub 克隆 | npm CLI |
+|------|-------------|---------|
+| **适用场景** | 学习源码、二次开发 | 快速创建新项目 |
+| **操作复杂度** | 需要手动配置 | 一键创建 |
+| **自定义程度** | 完全自定义 | 基于模板 |
+| **更新维护** | 需要手动同步 | 自动获取最新版本 |
+| **推荐用户** | 开发者、贡献者 | 普通用户 |
 
 ## 🚀 框架介绍
 
